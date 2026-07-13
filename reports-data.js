@@ -22,7 +22,7 @@ const REPORTS = [
     date: "2026-07-11",
     result: "P33 in class",
     summary: "Leading 1 lap of the race around the halfway point and despite some major setbacks the team completed the 24hrs of Spa",
-    image: "images/spa24kingpinblue.png",
+    image: "images/spaeventjul11.png",
     file: "reports/Spa24hKingpinBlueJul11.html",
     accent: "#35b7e0"
   },
