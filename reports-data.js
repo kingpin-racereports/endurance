@@ -17,43 +17,13 @@
 
 const REPORTS = [
   {
-    title: "Watkins Glen 6 Hour",
-    track: "Watkins Glen International",
-    date: "2026-06-14",
-    result: "P2 in class",
-    summary: "A clean run through the six-hour endurance classic, the No. 21 taking the checkered flag second in class after a steady final stint.",
-    image: "images/Watkins6hrKingpinBlueP2.jpg",
-    file: "reports/template-report.html",
+    title: "Spa 24hr presented by Falken Tire",
+    track: "Circuit of Spa-Francorchamps",
+    date: "2026-07-11",
+    result: "P33 in class",
+    summary: "Leading 1 lap of the race around the halfway point and despite some major setbacks the team completed the 24hrs of Spa",
+    image: "images/spa24kingpinblue.png",
+    file: "reports/Spa24h%20Kingpin%20Blue%20Race%20Report%20-%20Jul%2011.html",
     accent: "#35b7e0"
   },
-  {
-    title: "Bathurst 12 Hour — The Chase",
-    track: "Mount Panorama Circuit",
-    date: "2026-05-24",
-    result: "Race report",
-    summary: "Down through the Esses and out onto Conrod, the No. 19 Porsche held its line as the field bunched up for the run to the top.",
-    image: "images/T4Bathurst-P1_Pass_Taylor.jpg",
-    file: "reports/template-report.html",
-    accent: "#e0b23c"
-  },
-  {
-    title: "Bathurst 12 Hour — Through the Dipper",
-    track: "Mount Panorama Circuit",
-    date: "2026-05-24",
-    result: "Race report",
-    summary: "The No. 19 threads the Dipper on Mount Panorama's downhill plunge, one of the most demanding sequences in sim racing.",
-    image: "images/BathurstSagar_Dipper.jpg",
-    file: "reports/template-report.html",
-    accent: "#e0b23c"
-  },
-  {
-    title: "SVM Sprint Round",
-    track: "Sonoma Raceway",
-    date: "2026-04-18",
-    result: "Race report",
-    summary: "The AMG GT3 held the door shut into the final complex, seeing off a GT4 gap challenge for the class result.",
-    image: "images/SVMMark-Taylor_4_.jpg",
-    file: "reports/template-report.html",
-    accent: "#7fd0e8"
-  }
 ];
