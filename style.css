@@ -115,7 +115,7 @@ img { display: block; max-width: 100%; }
   min-height: 92vh;
   display: flex;
   align-items: flex-end;
-  background-size: cover;
+  background-size: 80%;
   background-position: center 65%;
   padding: 0 5vw 5.5rem;
   border-bottom: 1px solid var(--line);
